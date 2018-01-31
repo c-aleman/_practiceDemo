@@ -1,0 +1,23 @@
+/*
+*Git Hub Demo
+*/
+/**/
+html{
+	background: #fbfbfb;
+	font-family: sans-serif;
+}
+
+
+/* layouts*/
+/**/
+.container{
+	max-width: 800px;
+	margin: 0px auto;
+}
+
+
+/*type styles*/
+/**/
+body{
+	font-size: 1.5em;
+}
